@@ -4,8 +4,8 @@ channels:
 dependencies:
   # Core
   - python>=3.12
-  - growbikenet
-  - fixbikenet
+  - growbikenet=0.14.5
+  - fixbikenet=0.8.2
 
   # Jupyter
   - jupyterlab
