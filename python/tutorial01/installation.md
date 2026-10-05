@@ -41,4 +41,4 @@ jupyter lab tutorial01.ipynb
 
 Now, a browser window with the tutorial should open.
 <hr>
-<small>[**bikenetkit.org**](https://bikenetkit.org/) · [@bikenetkit@fosstodon.org](https://fosstodon.org/@bikenetkit) · [@bikenetkit.bsky.social](@bikenetkit.bsky.social) · [company/bikenetkit](https://www.linkedin.com/company/bikenetkit)</small>
+<small>[**bikenetkit.org**](https://bikenetkit.org/) · [@bikenetkit@fosstodon.org](https://fosstodon.org/@bikenetkit) · [@bikenetkit.bsky.social](https://bsky.app/profile/bikenetkit.bsky.social) · [company/bikenetkit](https://www.linkedin.com/company/bikenetkit)</small>
