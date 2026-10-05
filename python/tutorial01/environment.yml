@@ -1,4 +1,4 @@
-name: bikenetkit_tutorials
+name: bikenetkit_tutorial
 channels:
   - conda-forge
 dependencies:

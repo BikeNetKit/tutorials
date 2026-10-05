@@ -24,14 +24,14 @@ First, download and unzip the `tutorial01` folder:
 
 Then use the terminal to navigate to this folder. 
 
-Install python, growbikenet, and fixbikenet via:  
+Install GrowBikeNet via:  
 ```
 conda env create --file environment.yml
 ``` 
 
 Then, activate the environment via:  
 ```
-conda activate bikenetkit_tutorials 
+conda activate bikenetkit_tutorial
 ```
 
 and run jupyter lab:  
