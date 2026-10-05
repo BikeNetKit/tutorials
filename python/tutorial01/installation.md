@@ -2,7 +2,7 @@
 
 <small>Source: [https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01](https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01)</small>
 
-# Tutorial 1 
+# Tutorial 1 Installation Instructions
 **Introduction to GrowBikeNet** · *15 Minutes*  
 
 <small>Presented the first time at [D3A](https://d3aconference.dk/data-science-of-human-centric-mobility/), Nyborg, Oct 8th 2026.  
