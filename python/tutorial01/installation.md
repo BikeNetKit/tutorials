@@ -1,14 +1,14 @@
-# <a href="https://github.com/BikeNetKit"><img src="media/logo_bikenetkit.png" width="260px" alt="BikeNetKit logo"/></a>
+<a href="https://github.com/BikeNetKit"><img src="media/logo_bikenetkit.png" width="260px" alt="BikeNetKit logo"/></a>
 
-Source: [https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01](https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01)
+<small>Source: [https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01](https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01)</small>
 
 # Tutorial 1 
 **Introduction to GrowBikeNet** · *15 Minutes*  
 
-Presented the first time at [D3A](https://d3aconference.dk/data-science-of-human-centric-mobility/), Nyborg, Oct 8th 2026.  
+<small>Presented the first time at [D3A](https://d3aconference.dk/data-science-of-human-centric-mobility/), Nyborg, Oct 8th 2026.  
 
 Using GrowBikeNet v0.14.5  
-Created 2026-09-30 by Michael Szell: contact@bikenetkit.org
+Created 2026-09-30 by Michael Szell: contact@bikenetkit.org</small>
 
 ## Prerequisities
 
@@ -40,3 +40,5 @@ jupyter lab tutorial01.ipynb
 ```
 
 Now, a browser window with the tutorial should open.
+<hr>
+<small>[**bikenetkit.org**](https://bikenetkit.org/) · [@bikenetkit@fosstodon.org](https://fosstodon.org/@bikenetkit) · [@bikenetkit.bsky.social](@bikenetkit.bsky.social) · [company/bikenetkit](https://www.linkedin.com/company/bikenetkit)</small>
