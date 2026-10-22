@@ -2,7 +2,7 @@
 
 ## bikenetkit.org Tutorials
 ### GrowBikeNet (15 min)
-[Tutorial [pdf]](tutorials/bikenetkit.org/growbikenet/growbikenet.pdf)
+[Tutorial [pdf]](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/growbikenet/growbikenet.pdf)
 
 ## Python Tutorials
 ### Tutorial 1: Introduction to GrowBikeNet (15 min)
