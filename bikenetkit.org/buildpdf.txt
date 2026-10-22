@@ -1,0 +1,1 @@
+pandoc FILENAME.md -o FILENAME.pdf -V geometry:margin=1in --dpi 196
