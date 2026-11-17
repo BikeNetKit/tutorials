@@ -1,6 +1,6 @@
 ![](https://github.com/BikeNetKit/GrowBikeNet/raw/main/docs/source/_static/logo_growbikenet.svg){ width=50% }
 
-Source: [https://github.com/BikeNetKit/tutorials/tree/main/bikenetkit.org/growbikenet.md](https://github.com/BikeNetKit/tutorials/tree/main/bikenetkit.org/growbikenet.md)
+Source: [https://github.com/BikeNetKit/tutorials/tree/main/bikenetkit.org/growbikenet/](https://github.com/BikeNetKit/tutorials/tree/main/bikenetkit.org/growbikenet/)
 
 Created 2026-10-22 by Michael Szell: contact@bikenetkit.org
 
