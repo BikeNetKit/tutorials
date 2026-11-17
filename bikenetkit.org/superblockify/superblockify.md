@@ -10,19 +10,19 @@ Welcome to the tutorial for superblockify, part of BikeNetKit - The digital tool
 
 This tutorial shows you how to use the visualization at [bikenetkit.org](https://bikenetkit.org/superblockify/vienna_at), and what you can get out of it. We demonstrate superblockify for the example city of Vienna, the capital of Austria.
 
+# What is a Superblock?
+A Superblock is a neighborhood of calm streets, where cars are not allowed to drive through; they are only allowed to start or end their journey there. This creates calm neighborhoods where it is much safer to walk, play, or to cycle. The name "Superblock" comes from Barcelona, but it comes in many different names and flavors depending on the country. For example, in the UK it is called Low Traffic Neighborhood, in Denmark it is called Trafikø, or in Vienna it is called Supergrätzl.
+
 # Setup
 
 First, go to [https://bikenetkit.org/superblockify/vienna_at](https://bikenetkit.org/superblockify/vienna_at). Pull the play bar on the bottom back to zero. This resets the visualization:  
 ![](media/playbar_zero.png){width=290px}
 
-The map now looks like this:  
+The map now looks like this, showing the street network in grey:
 ![](media/superblockify_map_empty.png){width=100%}
 
-# What is a Superblock?
-A Superblock is a neighborhood of calm streets, where cars are not allowed to drive through; they are only allowed to start or end their journey there. This creates calm neighborhoods where it is much safer to walk, play, or to cycle. The name Superblock comes from Barcelona, but it comes in many different names and flavors depending on the country. For example, in the UK it is called Low Traffic Neighborhood, in Denmark it is called Trafikø, or in Vienna it is called Supergrätzl.
-
 # Superblockifying the city
-Pressing the play button shows the suggested, around 600, potential Superblocks for the city that it could implement. 
+Pressing the play button shows the suggested, potential Superblocks for the city that it could implement - around 600.
 
 ![](media/superblockify_map_superblockified.png){width=100%}
 
