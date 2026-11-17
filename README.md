@@ -10,6 +10,9 @@
 ### FixBikeNet (10 min)
 [Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/fixbikenet/fixbikenet.pdf)
 
+### superblockify (10 min)
+[Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/superblockify/superblockify)
+
 ## Python Tutorials
 ### Tutorial 1: Introduction to GrowBikeNet (15 min)
 [Tutorial](https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01) - [Download](https://downgit.github.io/#/home?url=https://github.com/BikeNetKit/tutorials/tree/main/python/tutorial01) - [Install](https://github.com/BikeNetKit/tutorials/blob/main/python/tutorial01/installation.pdf)
