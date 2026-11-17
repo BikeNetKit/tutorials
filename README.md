@@ -4,6 +4,9 @@
 ### GrowBikeNet (15 min)
 [Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/growbikenet/growbikenet.pdf)
 
+### LinkBikeNet (15 min)
+[Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/linkbikenet/linkbikenet.pdf)
+
 ### FixBikeNet (10 min)
 [Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/fixbikenet/fixbikenet.pdf)
 
