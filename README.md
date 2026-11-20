@@ -10,6 +10,9 @@
 ### FixBikeNet (10 min)
 [Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/fixbikenet/fixbikenet.pdf)
 
+### SortBikeNet (15 min)
+[Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/sortbikenet/sortbikenet.pdf)
+
 ### superblockify (10 min)
 [Tutorial](https://github.com/BikeNetKit/tutorials/blob/main/bikenetkit.org/superblockify/superblockify)
 
