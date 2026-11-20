@@ -8,7 +8,7 @@ Created 2026-11-20 by Michael Szell: contact@bikenetkit.org
 
 Welcome to the tutorial for SortBikeNet, part of BikeNetKit - The digital toolkit for bicycle networks.
 
-This tutorial shows you how to use the visualization at [bikenetkit.org](https://bikenetkit.org/sortbikenet/paris_fr/real/from_2021), and what you can get out of it. We demonstrate SortBikeNet for the example city of Paris, the capital of France.
+This tutorial shows you how to use the visualization at [bikenetkit.org](https://bikenetkit.org/sortbikenet/paris_fr), and what you can get out of it. We demonstrate SortBikeNet for the example city of Paris, the capital of France.
 
 # What SortBikeNet does and why it works only in Paris
 
@@ -20,7 +20,7 @@ Why only Paris? We found no city in Europe that publishes data that could be ana
 
 # Setup
 
-First, go to [https://bikenetkit.org/sortbikenet/paris_fr/real/from_2021](https://bikenetkit.org/sortbikenet/paris_fr/real/from_2021). Pull the play bar on the bottom back to zero. This resets the visualization:  
+First, go to [https://bikenetkit.org/sortbikenet/paris_fr](https://bikenetkit.org/sortbikenet/paris_fr). Pull the play bar on the bottom back to zero. This resets the visualization:  
 ![](media/playbar_zero.png){width=580px}
 
 The map now looks like this:  
